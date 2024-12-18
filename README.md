@@ -1,11 +1,11 @@
-#Memory Game
+# Memory Game
 This is a Memory Game implemented in C#. It features both single-player mode (against a computer) and two-player mode. The objective is to match all pairs of cards on a board. The player with the highest number of pairs at the end of the game wins.
 
 **Features**
-- ** Two Modes: Play against the computer or a friend.
--** Dynamic Board Sizes: Choose from several board size options.
--** Computer AI: The computer uses memory to make smarter moves.
--** Real-Time Feedback: Scores and the current player are updated dynamically.
+-  Two Modes: Play against the computer or a friend.
+-  Dynamic Board Sizes: Choose from several board size options.
+- Computer AI: The computer uses memory to make smarter moves.
+- Real-Time Feedback: Scores and the current player are updated dynamically.
 
 **How to Run**
 1. Make sure you have Visual Studio or any other compatible C# IDE with 4.7.2 or later .NET Framework installed on your machine.
