@@ -1,5 +1,6 @@
 # Memory Game
-This is a Memory Game implemented in C#. It features both single-player mode (against a computer) and two-player mode. The objective is to match all pairs of cards on a board. The player with the highest number of pairs at the end of the game wins.
+This is a Memory Game implemented in C#. It features both single-player mode (against a computer) and two-player mode.
+The objective is to match all pairs of cards on a board. The player with the highest number of pairs at the end of the game wins.
 
 **Features**
 -  Two Modes: Play against the computer or a friend.
